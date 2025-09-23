@@ -57,6 +57,8 @@ I’d love to team up on:
 </p>
 <br/>
 
+---
+
 ## 🎉 Fun Facts
 - Been a freelancer, data scientist, CTO, and even CEO (yeah, quite a ride 🚀).  
 - Lowkey coffee addict ☕ + night owl 🌙.  
