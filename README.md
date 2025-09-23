@@ -51,16 +51,16 @@ I’d love to team up on:
 ## 📬 Hit Me Up
 <p align="left">
   <a href="https://instagram.com/fchyoga" target="_blank">
-    <img align="left" alt="Yoga | Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/E4405F" />
+    <img align="left" alt="Yoga | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   <a href="https://linkedin.com/in/fitrian-chandra-yoga" target="_blank">
-    <img align="left" alt="Yoga | LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img align="left" alt="Yoga | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="https://yogachandra.xyz" target="_blank">
-    <img align="left" alt="Yoga | Website" width="24px" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
+    <img align="left" alt="Yoga | Website" width="30px" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" />
   </a>
   <a href="mailto:fchyoga@gmail.com" target="_blank">
-    <img align="left" alt="Yoga | Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img align="left" alt="Yoga | Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
 </p>
 <br/>
