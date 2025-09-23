@@ -1,4 +1,4 @@
-# 👋 Heyyo, I’m Yoga!  - ꦪꦺꦴꦒ  
+# 👋 Hi, I’m Yoga!  - ꦪꦺꦴꦒ  
 
 Welcome to my GitHub crib 🏡✨  
 I’m that guy who mixes **tech, business, and creativity** into building cool digital stuff.  
