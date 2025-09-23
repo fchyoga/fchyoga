@@ -13,8 +13,6 @@ I’m that guy who mixes **tech, business, and creativity** into building cool d
 - 🌱 Always learning new things (currently obsessed with SaaS & POS systems)  
 - 🌍 From Indonesia with ❤️  
 
----
-
 ## ⚡ Tech Stack
 🚀 My current toolbox looks like this:  
 <p align="left">
@@ -31,22 +29,16 @@ I’m that guy who mixes **tech, business, and creativity** into building cool d
 
 But hey—tech is just a tool, the real fun is **solving problems & building products** 💡  
 
----
-
 ## 🎯 What I’m Up To
 - Cooking up **cloud-based apps** ☁️  
 - Designing **Software as a Solutions for Billiard center & SMEs** 🍔🎱  
 - Dreaming of building the next-gen **SaaS made in Indonesia** 🇮🇩  
-
----
 
 ## 🤝 Let’s Collab
 I’d love to team up on:
 - ⚡ SaaS ideas  
 - 🌍 Open-source projects  
 - 💡 Anything that empowers **SMEs & creators**  
-
----
 
 ## 📬 Hit Me Up
 <p align="left">
@@ -65,8 +57,6 @@ I’d love to team up on:
 </p>
 <br/>
 
----
-
 ## 🎉 Fun Facts
 - Been a freelancer, data scientist, CTO, and even CEO (yeah, quite a ride 🚀).  
 - Lowkey coffee addict ☕ + night owl 🌙.  
@@ -77,12 +67,10 @@ I’d love to team up on:
 ## 📊 GitHub Stats
 ![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchyoga&show_icons=true&theme=radical)  
 
----
 
 ## 🎵 Now Playing on Spotify
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31c5cphvuwq3o5tx2tuwu7jpvk6e)
 
----
 
 ## 💡 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
