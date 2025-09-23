@@ -17,7 +17,17 @@ I’m that guy who mixes **tech, business, and creativity** into building cool d
 
 ## ⚡ Tech Stack
 🚀 My current toolbox looks like this:  
-`Python` | `JavaScript` | `React` | `Next.js` | `Node.js` | `Express` | `MongoDB` | `PostgreSQL` | `Docker`  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</p> 
 
 But hey—tech is just a tool, the real fun is **solving problems & building products** 💡  
 
@@ -39,10 +49,21 @@ I’d love to team up on:
 ---
 
 ## 📬 Hit Me Up
-- 🌐 [yogachandra.xyz](https://yogachandra.xyz)  
-- 💼 [LinkedIn](https://linkedin.com/in/fitrian-chandra-yoga)  
-- 📸 [Instagram](https://instagram.com/fchyoga)  
-- 📧 **fchyoga@gmail.com**  
+<p align="left">
+  <a href="https://instagram.com/fchyoga" target="_blank">
+    <img align="left" alt="Yoga | Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/495f7e" />
+  </a>
+  <a href="https://linkedin.com/in/fitrian-chandra-yoga" target="_blank">
+    <img align="left" alt="Yoga | LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/495f7e" />
+  </a>
+  <a href="https://yogachandra.xyz" target="_blank">
+    <img align="left" alt="Yoga | Website" width="24px" src="https://cdn.simpleicons.org/googlechrome/495f7e" />
+  </a>
+  <a href="mailto:fchyoga@gmail.com" target="_blank">
+    <img align="left" alt="Yoga | Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/495f7e" />
+  </a>
+</p>
+<br/>
 
 ---
 
