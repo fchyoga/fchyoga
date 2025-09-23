@@ -51,16 +51,16 @@ I’d love to team up on:
 ## 📬 Hit Me Up
 <p align="left">
   <a href="https://instagram.com/fchyoga" target="_blank">
-    <img align="left" alt="Yoga | Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/495f7e" />
+    <img align="left" alt="Yoga | Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>
   <a href="https://linkedin.com/in/fitrian-chandra-yoga" target="_blank">
-    <img align="left" alt="Yoga | LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/495f7e" />
+    <img align="left" alt="Yoga | LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
   <a href="https://yogachandra.xyz" target="_blank">
-    <img align="left" alt="Yoga | Website" width="24px" src="https://cdn.simpleicons.org/googlechrome/495f7e" />
+    <img align="left" alt="Yoga | Website" width="24px" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
   </a>
   <a href="mailto:fchyoga@gmail.com" target="_blank">
-    <img align="left" alt="Yoga | Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/495f7e" />
+    <img align="left" alt="Yoga | Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
 </p>
 <br/>
