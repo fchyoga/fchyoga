@@ -36,8 +36,6 @@ Now, I focus on creating scalable systems, SaaS platforms, and business solution
 
 ## ⚡ Tech Stack
 
-## ⚡ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,php,laravel,postgres,mongodb,docker&theme=dark" />
 </p>
@@ -56,31 +54,30 @@ Now, I focus on creating scalable systems, SaaS platforms, and business solution
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fchyoga&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchyoga&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fchyoga&theme=github_dark)
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://instagram.com/fchyoga" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://instagram.com/fchyoga" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
   </a>
+  &nbsp;
   
-  <a href="https://linkedin.com/in/fitrian-chandra-yoga" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/fitrian-chandra-yoga" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
+  &nbsp;
 
-  <a href="https://yogachandra.my.id" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="40" />
+  <a href="https://yogachandra.my.id" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="48" />
   </a>
+  &nbsp;
 
-  <a href="mailto:fchyoga@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:fchyoga@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
 </p>
 
