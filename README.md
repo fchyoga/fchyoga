@@ -1,82 +1,113 @@
-# 👋 Hi, I’m Yoga!  - ꦪꦺꦴꦒ  
+# 👋 Hi, I'm Yoga Chandra - ꦪꦺꦴꦒ
 
-Welcome to my GitHub crib 🏡✨  
-I’m that guy who mixes **tech, business, and creativity** into building cool digital stuff.  
+### 🚀 Tech Builder • SaaS Enthusiast • Product Creator
 
-![Profile Views](https://komarev.com/ghpvc/?username=fchyoga&color=blueviolet&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fchyoga&label=Profile%20Views&color=0e75b6&style=flat" alt="fchyoga" />
+</p>
 
 ---
 
-## 🌟 Quick Intro
-- 👨‍💻 Full-stack dev turned **product builder**  
-- 🧑‍🚀 On a mission to make tech **simple & useful** for everyone  
-- 🌱 Always learning new things (currently obsessed with SaaS & POS systems)  
-- 🌍 From Indonesia with ❤️  
+## 🌟 About Me
+
+I'm a technology enthusiast from Indonesia who loves building digital products that solve real-world problems.
+
+My journey started as a developer, then evolved into product building, business development, and startup leadership.  
+Now, I focus on creating scalable systems, SaaS platforms, and business solutions for SMEs.
+
+💡 I believe technology should be:
+- Simple
+- Useful
+- Accessible
+- Impactful
+
+---
+
+## 🧠 Current Focus
+
+- ☁️ Cloud-based SaaS Applications
+- 🧾 ERP & POS Systems
+- 🎱 Billiard Center Management Systems
+- 🤖 AI Automation & AI Agents
+- 🛒 Marketplace & SME Digital Solutions
+- 📊 Business Process Optimization
+
+---
 
 ## ⚡ Tech Stack
-🚀 My current toolbox looks like this:  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p> 
+</p>
 
-But hey—tech is just a tool, the real fun is **solving problems & building products** 💡  
+---
 
-## 🎯 What I’m Up To
-- Cooking up **cloud-based apps** ☁️  
-- Designing **Software as a Solutions for Billiard center & SMEs** 🍔🎱  
-- Dreaming of building the next-gen **SaaS made in Indonesia** 🇮🇩  
+## 🚀 Featured Interests
 
-## 🤝 Let’s Collab
-I’d love to team up on:
-- ⚡ SaaS ideas  
-- 🌍 Open-source projects  
-- 💡 Anything that empowers **SMEs & creators**  
+- Building products for Indonesian SMEs 🇮🇩
+- SaaS architecture & scalable systems
+- AI-powered business tools
+- UI/UX for business applications
+- Automation & workflow systems
 
-## 📬 Hit Me Up
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fchyoga&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchyoga&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
   <a href="https://instagram.com/fchyoga" target="_blank">
-    <img align="left" alt="Yoga | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
+  
   <a href="https://linkedin.com/in/fitrian-chandra-yoga" target="_blank">
-    <img align="left" alt="Yoga | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://yogachandra.xyz" target="_blank">
-    <img align="left" alt="Yoga | Website" width="30px" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" />
+
+  <a href="https://yogachandra.my.id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
   </a>
-  <a href="mailto:fchyoga@gmail.com" target="_blank">
-    <img align="left" alt="Yoga | Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+
+  <a href="mailto:fchyoga@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
-<br/>
 
 ---
 
-## 🎉 Fun Facts
-- Been a freelancer, data scientist, CTO, and even CEO (yeah, quite a ride 🚀).  
-- Lowkey coffee addict ☕ + night owl 🌙.  
-- Believe that tech + creativity = 🔑 to making life better.  
+## ☕ Fun Facts
+
+- Former freelancer, data scientist, CTO, and startup founder
+- Coffee-powered developer ☕
+- Loves turning ideas into real products
+- Enjoys combining technology, creativity, and business strategy
 
 ---
 
-## 📊 GitHub Stats
-![Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchyoga&show_icons=true&theme=radical)  
+## 💭 Favorite Quote
 
-
-## 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31c5cphvuwq3o5tx2tuwu7jpvk6e)
-
-
-## 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+> “Build something useful. Keep it simple. Make it impactful.”
 
 ---
 
-✨ Thanks for dropping by! Don’t just star repos, let’s connect 🚀  
+✨ Thanks for visiting my profile!  
+If you like what I build, feel free to connect or collaborate 🚀
