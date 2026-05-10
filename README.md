@@ -54,11 +54,12 @@ Now, I focus on creating scalable systems, SaaS platforms, and business solution
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fchyoga&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchyoga&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fchyoga&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchyoga&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -75,7 +76,7 @@ Now, I focus on creating scalable systems, SaaS platforms, and business solution
   </a>
 
   <a href="https://yogachandra.my.id" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="40" />
   </a>
 
   <a href="mailto:fchyoga@gmail.com">
